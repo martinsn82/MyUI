@@ -1,7 +1,5 @@
-MyUI
-====
-
-User Interface JavaScript library
+### Welcome to *MyUI* library
+###User Interface JavaScript library based on jQuery
 
 @author  Martin Nachev (Bulgaria)
 
